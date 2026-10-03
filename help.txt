@@ -1,0 +1,3 @@
+Double-click CV-Builder.bat (needs Python). It opens http://localhost:8000.
+Stop it with Ctrl+C or by closing the window.
+Without the .bat: run "python serve.py" in this folder.
